@@ -12,7 +12,7 @@ http://www.seawatergreenhouse.com/downloads/Seawater%20Greenhouse%20Brochure.pdf
 
 # Tasks
 - Investigate geographical areas that are facing major challenges for water and aggreculture
-- Investigate how the (louis)
+- Investigate how the
     - greenhouse works (louis)
     - where it might be suitable (louis)
 - Find relevant data for greenhouse suitability online and start analysing
