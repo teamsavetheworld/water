@@ -22,7 +22,13 @@ http://www.seawatergreenhouse.com/downloads/Seawater%20Greenhouse%20Brochure.pdf
 
 This link has some useful data and ideas about what environments are suitable - ie low humidity, high temperature and near a mountain
 @themikk check this for  what geo data to use.
+
 http://www.globalwaterforum.org/2012/05/28/seawater-greenhouse-a-new-approach-to-restorative-agriculture/ 
 
+global rainfall data - to find suitable regions
+https://www.esrl.noaa.gov/psd/data/gridded/data.gpcc.html
+
+global temparature data - 
+https://data.giss.nasa.gov/gistemp/
 
 
