@@ -18,5 +18,10 @@ http://www.seawatergreenhouse.com/downloads/Seawater%20Greenhouse%20Brochure.pdf
 - Find relevant data for greenhouse suitability online and start analysing
 - Feasibility of large scale green house development (resources ect)
 
+# Links
+
+This link has some useful data and ideas about what environments are suitable - ie low humidity, high temperature and near a mountain
+http://www.globalwaterforum.org/2012/05/28/seawater-greenhouse-a-new-approach-to-restorative-agriculture/
+
 
 
