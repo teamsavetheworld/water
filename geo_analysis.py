@@ -8,9 +8,9 @@ import xarray as xr
 # Temperature & rainfall data from https://www.esrl.noaa.gov/psd/data/gridded/data.UDel_AirT_Precip.html
 
 # Load in temperature and rainfall data
-air_data_file = xr.open_dataset('/Users/Mikk/Documents/SaveTheWorld/Water/air.mon.mean.v401.nc',
+air_data_file = xr.open_dataset('data/temp.nc',
                                  decode_times=True)
-rain_data_file = xr.open_dataset('/Users/Mikk/Documents/SaveTheWorld/Water/precip.mon.total.v401.nc',
+rain_data_file = xr.open_dataset('data/precipitation.nc,
                                  decode_times=True)
 df_t = air_data_file.to_dataframe()
 df_r = rain_data_file.to_dataframe()
